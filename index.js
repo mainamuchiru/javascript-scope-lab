@@ -10,5 +10,6 @@ function addBurger() {
   }
 }
 function changeFeaturedDrink() {
-  featuredDrink = "JavaShake";
+  featuredDrink = "The JavaShake";
 }
+changeFeaturedDrink()
