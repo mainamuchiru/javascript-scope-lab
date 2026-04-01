@@ -1,12 +1,12 @@
-const burger = ["Hamburger", "Cheeseburger"];
+const burgers = ["Hamburger", "Cheeseburger"];
 let featuredDrink = "Strawberry Milkshake";
 
 function addBurger() {
   const newBurger = "Flatburger";
-  burger.push(newBurger);
+  burgers.push(newBurger);
   if (true) {
     const anotherNewBurger = "Maple Bacon Burger";
-    burger.push(anotherNewBurger);
+    burgers.push(anotherNewBurger);
   }
 }
 function changeFeaturedDrink() {
